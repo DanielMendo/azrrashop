@@ -388,7 +388,7 @@ footer .copyright p {
   min-width: 40px;
   padding-top: 4px;
   color: var(--azul-claro);
-  display: flex;
+  /* display: flex; */
   justify-content: center;
   align-items: flex-start;
   font-size: 24px;
